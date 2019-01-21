@@ -1,4 +1,4 @@
-# Painel Vendas
+# Painel  de Vendas
 
 > Incicio do projeto Ultilizndo Vue com ElementUI
 
