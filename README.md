@@ -1,4 +1,4 @@
-# element-starter
+# Painel Vendas
 
 > Incicio do projeto Ultilizndo Vue com ElementUI
 
