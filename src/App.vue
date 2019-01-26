@@ -38,8 +38,8 @@ export default {
   },
   methods:{
     selecionarItemMenu(key, keyPath){
-      console.log(key);
-      console.log(keyPath);
+      //console.log(key);
+      //console.log(keyPath);
     }
   }
 }

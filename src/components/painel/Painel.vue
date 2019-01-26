@@ -80,7 +80,7 @@ export default {
               res=>{
                 this.tabelaVendas=res;
               }, err =>{
-                console.log("errorororororor!");
+                console.log("Errror!");
               }
             );
       },

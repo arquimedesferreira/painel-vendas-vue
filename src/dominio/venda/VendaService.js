@@ -11,7 +11,7 @@ export default class VendaService{
                    err =>{
                         Message({
                             showClose: true,
-                            message: 'Erro ao buscar os itens!',
+                            message: 'Erro ao buscar os itens :(',
                             type: 'erro'
                         });
                     }
@@ -24,7 +24,7 @@ export default class VendaService{
                             erro =>{
                                 Message({
                                     showClose: true,
-                                    message: 'Vixe o que aconteceu, não consegui encontrar nada, acho que algo deu errado!',
+                                    message: 'Vixe o que aconteceu, não consegui encontrar nada, acho que algo deu errado :(',
                                     type: 'erro'
                                     });
                                 });
