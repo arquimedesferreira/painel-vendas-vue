@@ -1,6 +1,7 @@
 <template>
     <div>
         <template>
+         <div> <h3> Status do Pedido </h3> </div>
           <el-table
             ref="singleTable"
             :data="tabelaVendas"
