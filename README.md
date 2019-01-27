@@ -1,6 +1,6 @@
 # element-starter
 
-> Incicio do projeto Ultilizndo Vue com ElementUI
+> Incicio do projeto Ultilizando Vue com ElementUI
 
 
 ## Environment
