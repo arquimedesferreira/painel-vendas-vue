@@ -1,6 +1,6 @@
 # Painel  de Vendas
 
-> Inicio do projeto de teste Ultilizando Vue com ElementUI
+> Inicio do projeto de teste utilizando [Vue.js](https://vuejs.org/) com [ElementUI](https://element.eleme.io/#/en-US)
 
 
 ## Environment
