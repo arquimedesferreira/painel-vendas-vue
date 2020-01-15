@@ -1,6 +1,6 @@
 # Painel  de Vendas
 
-> Incicio do projeto Ultilizando Vue com ElementUI
+> Inicio do projeto de teste Ultilizando Vue com ElementUI
 
 
 ## Environment
